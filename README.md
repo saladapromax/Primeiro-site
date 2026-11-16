@@ -1,2 +1,0 @@
-# Primeiro-site
-atividade pratica
